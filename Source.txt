@@ -1,0 +1,11 @@
+Source Code
+XDOG
+https://github.com/garygrossi/XDoG-Python/blob/master/xdog.py
+Structure Tensor
+https://github.com/Skielex/structure-tensor/blob/master/structure_tensor/st2d.py
+COA
+https://github.com/jkpir/COA/blob/master/COA.py?fbclid=IwZXh0bgNhZW0CMTEAAR3PEiw8tqNE3FEoMMzOVEYOitvnvtpDOgWROVi5aFYjji2WZpwowT6QHd4_aem_J_VCo_ChWlr3SR4BJUqR9g
+WMCF
+https://www.sciencedirect.com/science/article/abs/pii/S0165168419302282?via%3Dihub
+YUV
+https://github.com/Kenneth111/PyImageProcess/commit/2bd30f8917bbfff2d362c53af52c38ca0d85641f
